@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> As of 09/02/24, sunset has has been discontinued.
+
 # Sunset
 A mod for Discord's mobile apps. Fork of [Vendetta](https://github.com/vendetta-mod).
 
